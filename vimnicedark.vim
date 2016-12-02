@@ -6,7 +6,7 @@ if version > 700
     endif
 endif
 set t_Co=256
-let g:colors_name = "nicedark"
+let g:colors_name = "vimnicedark"
 
 hi Boolean          ctermfg=173
 hi Character        ctermfg=140
