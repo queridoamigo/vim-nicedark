@@ -28,7 +28,7 @@ hi Float            ctermfg=140
 hi Folded           ctermfg=242     ctermbg=234     
 hi Function         ctermfg=74
 hi Identifier       ctermfg=231
-hi IncSearch        ctermfg=234     ctermbg=75      
+hi IncSearch        ctermfg=234     ctermbg=75 cterm=underline     
 hi Keyword          ctermfg=140
 hi Label            ctermfg=186
 hi LineNr           ctermfg=59      ctermbg=235     
