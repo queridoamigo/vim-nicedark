@@ -40,7 +40,7 @@ hi Operator         ctermfg=80
 hi PmenuSel         ctermbg=59      
 hi PreProc          ctermfg=140
 hi Repeat           ctermfg=140
-hi Search           ctermfg=250    	cterm=italic
+hi Search           ctermfg=116    	cterm=italic
 hi SignColumn       ctermbg=237     
 hi Special          ctermfg=80
 hi SpecialComment   ctermfg=242
