@@ -11,7 +11,7 @@ let g:colors_name = "vimnicedark"
 hi Boolean          ctermfg=173
 hi Character        ctermfg=140
 hi ColorColumn      ctermbg=233     
-hi Comment          ctermfg=238
+hi Comment          ctermfg=244
 hi Conditional      ctermfg=140
 hi Constant         ctermfg=140
 hi Cursor           ctermfg=234     ctermbg=231     
